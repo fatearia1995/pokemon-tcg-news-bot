@@ -1,0 +1,11 @@
+name: Actions Smoke Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo
+        run: echo "GitHub Actions is working."
