@@ -1,0 +1,59 @@
+{
+  "x_accounts": [
+    {
+      "region": "international",
+      "source_name": "Pokémon TCG Official X",
+      "handle": "PokemonTCG"
+    },
+    {
+      "region": "international",
+      "source_name": "Play! Pokémon X",
+      "handle": "playpokemon"
+    },
+    {
+      "region": "international",
+      "source_name": "Pokémon Center US X",
+      "handle": "PokemonCenterUS"
+    },
+    {
+      "region": "international",
+      "source_name": "Pokemon Restock & Drop Alerts",
+      "handle": "PokeAlerts_"
+    },
+    {
+      "region": "international",
+      "source_name": "Pokemon Drops",
+      "handle": "PokemonTCGDrops"
+    },
+    {
+      "region": "international",
+      "source_name": "Poke Pullz News/Restocks",
+      "handle": "pokepullzhq"
+    },
+    {
+      "region": "international",
+      "source_name": "Pokemon TCG Restocks & News",
+      "handle": "PokemonRestocks"
+    },
+    {
+      "region": "international",
+      "source_name": "Pokemon Deals, Alerts & News",
+      "handle": "PokemonDealsTCG"
+    },
+    {
+      "region": "international",
+      "source_name": "Pokemon Alerts & News",
+      "handle": "PokeTCGAlerts"
+    },
+    {
+      "region": "jp",
+      "source_name": "ポケモンカードチャンネル公式X",
+      "handle": "PokecaCH"
+    },
+    {
+      "region": "jp",
+      "source_name": "ポケモン公式X",
+      "handle": "pokemon_cojp"
+    }
+  ]
+}
