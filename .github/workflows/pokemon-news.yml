@@ -6,16 +6,10 @@ on:
     - cron: "30 0 * * *"
   workflow_dispatch:
 
-concurrency:
-  group: pokemon-tcg-news
-  cancel-in-progress: false
-
 jobs:
   run-news-bot:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-    permissions:
-      contents: read
     env:
       TZ: Asia/Taipei
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
